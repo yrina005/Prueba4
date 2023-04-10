@@ -7,6 +7,7 @@ public class PruebaGit {
 		int b=2;
 		double promedio = (a+b)/2;
 		System.out.println(promedio);
+		System.out.println("chau");
 
 	}
 
