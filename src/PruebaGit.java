@@ -5,8 +5,8 @@ public class PruebaGit {
 		// TODO Auto-generated method stub
 		int a=1;
 		int b=2;
-		double promedio = (a+b)/2
-		System.out.println(promedio)
+		double promedio = (a+b)/2;
+		System.out.println(promedio);
 
 	}
 
